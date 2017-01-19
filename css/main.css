@@ -1,6 +1,11 @@
 .banner {
-  min-height: 280px;
-  height: 5vh;
+  min-height: 275px;
+  /*height: 1vh;*/
   background: url(../images/UJD_Banner2.jpg) no-repeat 50% 50% / cover;
   position: relative;
+}
+
+.divider {
+  margin: 50px 100px 20px 100px;
+  border-bottom: 3px solid #682C5F;
 }
