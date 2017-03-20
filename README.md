@@ -8,4 +8,4 @@ Follow us on Twitter:
 https://twitter.com/UtahJuniorDevs
 
 Join us in Slack:
-https://utahjuniordevelopers.slack.com
+https://utahjuniordevs.herokuapp.com/
